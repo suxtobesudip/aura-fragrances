@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mumbai-flagship",
+    "city": "Mumbai",
+    "type": "Flagship Boutique",
+    "name": "Colaba Flagship Boutique",
+    "address": "4B Apollo Bunder, Colaba, Mumbai 400001",
+    "hours": "Tue – Sun: 11:00 AM – 8:30 PM",
+    "phone": "+91 22 4982 7100",
+    "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1000&q=80",
+    "features": ["Live Parfum Engraving Studio", "Bespoke Olfactory Bar", "Complimentary Scent Consultations"]
+  },
+  {
+    "id": "bengaluru-popup",
+    "city": "Bengaluru",
+    "type": "Glasshouse Pop-Up",
+    "name": "Indiranagar Botanical Pavilion",
+    "address": "777 12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru 560038",
+    "hours": "Mon – Sun: 10:30 AM – 9:00 PM",
+    "phone": "+91 80 4123 9080",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1000&q=80",
+    "features": ["Living Herbarium Installation", "Fragrance Layering Lounge", "Discovery Vials Bar"]
+  },
+  {
+    "id": "delhi-sanctuary",
+    "city": "New Delhi",
+    "type": "Heritage Sanctuary",
+    "name": "Connaught Place Heritage Vault",
+    "address": "Block C, Inner Circle, Connaught Place, New Delhi 110001",
+    "hours": "Mon – Sat: 11:00 AM – 8:00 PM",
+    "phone": "+91 11 4356 8890",
+    "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=1000&q=80",
+    "features": ["Private Scent Salon", "Custom Monogramming", "Archive Scent Vault"]
+  },
+  {
+    "id": "hyderabad-courtyard",
+    "city": "Hyderabad",
+    "type": "Concept Boutique",
+    "name": "Banjara Hills Sunken Court",
+    "address": "Road No. 10, Banjara Hills, Hyderabad 500034",
+    "hours": "Tue – Sun: 11:00 AM – 8:30 PM",
+    "phone": "+91 40 6712 4433",
+    "image": "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=1000&q=80",
+    "features": ["Water Caustic Courtyard", "Fragrance Wardrobe Consultations", "Luxury Gift Box Service"]
+  }
+]

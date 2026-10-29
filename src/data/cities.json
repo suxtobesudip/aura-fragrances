@@ -1,0 +1,86 @@
+[
+  {
+    "id": "kyoto-mist",
+    "slug": "kyoto-mist",
+    "city": "Kyoto",
+    "name": "Kyoto Mist",
+    "family": "Fresh / Meditative",
+    "coordinates": "35.0116° N, 135.7681° E",
+    "tagline": "TEMPLE CYPRESS · RAIN ON STONE",
+    "moodLine": "Cold morning fog filtering through Arashiyama bamboo.",
+    "quote": "The silent pause between temple bells, where damp earth yields to sacred green cedar.",
+    "price": 3250,
+    "rating": 4.9,
+    "weatherPerformance": "Flourishes in high humidity & monsoon rains.",
+    "notes": {
+      "top": ["Green Tea Leaf", "Shiso Leaf", "Dewy Bamboo"],
+      "heart": ["Hinoki Wood", "White Lotus", "Incense Smoke"],
+      "base": ["Damp Moss", "Himalayan Cedar", "Cold Stone Accord"]
+    },
+    "image": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1000&q=80",
+    "bottleImage": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "marrakech-dusk",
+    "slug": "marrakech-dusk",
+    "city": "Marrakech",
+    "name": "Marrakech Dusk",
+    "family": "Woody / Spiced",
+    "coordinates": "31.6295° N, 7.9811° W",
+    "tagline": "SUNDRIED TERRACOTTA · ATLAS CEDAR",
+    "moodLine": "Spiced mint tea and copper lanterns glowing in the souks.",
+    "quote": "When the red city surrenders the day's heat to dry desert winds laced with orange blossom.",
+    "price": 3250,
+    "rating": 5.0,
+    "weatherPerformance": "Engineered to withstand intense dry heat without evaporating.",
+    "notes": {
+      "top": ["Spearmint Leaf", "Bitter Orange", "Cardamom"],
+      "heart": ["Atlas Cedar", "Orange Blossom Water", "Cumin Seed"],
+      "base": ["Smoked Leather", "Golden Amber", "Labdanum"]
+    },
+    "image": "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?auto=format&fit=crop&w=1000&q=80",
+    "bottleImage": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "lisbon-light",
+    "slug": "lisbon-light",
+    "city": "Lisbon",
+    "name": "Lisbon Light",
+    "family": "Fresh / Solar",
+    "coordinates": "38.7223° N, 9.1393° W",
+    "tagline": "ATLANTIC BREEZE · AZULEJO WARMTH",
+    "moodLine": "Golden hour reflecting off porcelain azulejos and the Tagus River.",
+    "quote": "Salt-air carried up cobblestone alleys, carrying faint scents of lime blossom and sweet almond pastry.",
+    "price": 3250,
+    "rating": 4.8,
+    "weatherPerformance": "Luminous all-day projection in breezy coastal climates.",
+    "notes": {
+      "top": ["Portuguese Lemon", "Sea Breeze", "Green Olive"],
+      "heart": ["Lime Blossom", "Sunlit Fig", "Solar Accord"],
+      "base": ["Bleached Pine", "White Amber", "Terracotta Mineral"]
+    },
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1000&q=80",
+    "bottleImage": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "seoul-neon",
+    "slug": "seoul-neon",
+    "city": "Seoul",
+    "name": "Seoul Neon",
+    "family": "Floral / Electric",
+    "coordinates": "37.5665° N, 126.9780° E",
+    "tagline": "ELECTRIC VIOLET · NIGHT ASPHALT",
+    "moodLine": "Neon reflections dancing in puddles along Hongdae alleys.",
+    "quote": "Cold night air, crisp cassis fruit, and the buzzing violet glow of a city that never sleeps.",
+    "price": 3250,
+    "rating": 4.9,
+    "weatherPerformance": "Crisp molecular sillage that cuts through crisp urban night air.",
+    "notes": {
+      "top": ["Blackcurrant / Cassis", "Pink Peppercorn", "Cold Ozone"],
+      "heart": ["Electric Violet", "Night Orchid", "Crisp Apple"],
+      "base": ["Ambroxan Super", "Cedar Shavings", "Clean Vinyl"]
+    },
+    "image": "https://images.unsplash.com/photo-1538485399081-7191377e8241?auto=format&fit=crop&w=1000&q=80",
+    "bottleImage": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=80"
+  }
+]

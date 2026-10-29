@@ -1,0 +1,322 @@
+[
+  {
+    "id": "velvet-peony",
+    "slug": "velvet-peony",
+    "name": "Velvet Peony",
+    "family": "Floral",
+    "tagline": "FLORAL · ALL-DAY · UNISEX",
+    "gender": "For Everyone",
+    "timeOfDay": "Morning Glow",
+    "price": 2450,
+    "price100ml": 3850,
+    "engravedPrice": 2850,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "badge": "Trending",
+    "moodLine": "Soft petals brushed against cool morning glass.",
+    "shortDescription": "Crisp white peony petals steeped in dew, softened with skin musk and a flicker of pink pepper.",
+    "description": "Inspired by dawn breaking across an English conservatory. Velvet Peony opens with a rush of crushed pink peppercorn and juicy nashi pear, before giving way to lush white peony and damask rose petals that meld seamlessly with warm skin musk.",
+    "concentration": "Extrait de Parfum (26% perfume oils)",
+    "notes": {
+      "top": ["Pink Peppercorn", "Nashi Pear", "Dewdrop Accord"],
+      "heart": ["White Peony", "Damask Rose", "Jasmine Sambac"],
+      "base": ["Cashmere Wood", "White Musk", "Soft Ambergris"]
+    },
+    "meters": {
+      "longevity": 9,
+      "longevityLabel": "10–12 Hours",
+      "sillage": "Radiant",
+      "sillagePercent": 82
+    },
+    "images": {
+      "primary": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1000&q=80",
+      "secondary": "https://images.unsplash.com/photo-1590736704728-f4730bb30770?auto=format&fit=crop&w=1000&q=80",
+      "macro": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1000&q=80"
+    },
+    "layeringWith": {
+      "name": "Cedar Hour",
+      "slug": "cedar-hour",
+      "effect": "Adds smoky depth to crystalline floral notes."
+    }
+  },
+  {
+    "id": "smoked-amber",
+    "slug": "smoked-amber",
+    "name": "Smoked Amber",
+    "family": "Woody",
+    "tagline": "WOODY · MAGNETIC · UNISEX",
+    "gender": "For Everyone",
+    "timeOfDay": "Golden Hour",
+    "price": 2650,
+    "price100ml": 4150,
+    "engravedPrice": 3050,
+    "rating": 5.0,
+    "reviewsCount": 214,
+    "badge": "Bestseller",
+    "moodLine": "Smoldering birch, melted resin, and golden warmth.",
+    "shortDescription": "A hypnotic slow-burn of Baltic amber, roasted tonka, and charred cedarwood wrapped in bourbon vanilla.",
+    "description": "Smoked Amber captures the intimacy of a dimly lit library hearth. Resin crystals harvested at peak maturity, blended with smoky birch tar and Madagascar vanilla beans for a magnetic, enveloping presence.",
+    "concentration": "Extrait de Parfum (28% perfume oils)",
+    "notes": {
+      "top": ["Cardamom Pod", "Bitter Orange Peel", "Incense Smoke"],
+      "heart": ["Baltic Amber Resin", "Roasted Tonka", "Labdanum"],
+      "base": ["Atlas Cedar", "Smoked Birch", "Bourbon Vanilla"]
+    },
+    "meters": {
+      "longevity": 10,
+      "longevityLabel": "14+ Hours",
+      "sillage": "Magnetic",
+      "sillagePercent": 94
+    },
+    "images": {
+      "primary": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=1000&q=80",
+      "secondary": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=80",
+      "macro": "https://images.unsplash.com/photo-1516214104703-d870798883c5?auto=format&fit=crop&w=1000&q=80"
+    },
+    "layeringWith": {
+      "name": "Velvet Peony",
+      "slug": "velvet-peony",
+      "effect": "Infuses smoky resin with intoxicating floral dew."
+    }
+  },
+  {
+    "id": "salt-and-fig",
+    "slug": "salt-and-fig",
+    "name": "Salt & Fig",
+    "family": "Fresh",
+    "tagline": "FRESH · SOLAR · UNISEX",
+    "gender": "For Everyone",
+    "timeOfDay": "Morning Glow",
+    "price": 2350,
+    "price100ml": 3650,
+    "engravedPrice": 2750,
+    "rating": 4.8,
+    "reviewsCount": 96,
+    "badge": "Trending",
+    "moodLine": "Sun-ripened green figs drying over ocean cliffs.",
+    "shortDescription": "Milky green fig leaves, Aegean sea salt crystals, and bleached driftwood warmed by afternoon sun.",
+    "description": "Recalling quiet afternoons along the Mediterranean coast where wild fig branches hang heavy over salt-crusted limestone cliffs. Green, creamy, and undeniably alive.",
+    "concentration": "Extrait de Parfum (24% perfume oils)",
+    "notes": {
+      "top": ["Sunlit Fig Leaf", "Aegean Sea Salt", "Calabrian Bergamot"],
+      "heart": ["Milky Fig Pulp", "Iris Concrete", "Wild Thyme"],
+      "base": ["Sun-Bleached Driftwood", "Coconut Water Accord", "White Cedar"]
+    },
+    "meters": {
+      "longevity": 8,
+      "longevityLabel": "8–10 Hours",
+      "sillage": "Moderate",
+      "sillagePercent": 74
+    },
+    "images": {
+      "primary": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=1000&q=80",
+      "secondary": "https://images.unsplash.com/photo-1615397349754-cfa2066a298e?auto=format&fit=crop&w=1000&q=80",
+      "macro": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1000&q=80"
+    },
+    "layeringWith": {
+      "name": "Citrus Haze",
+      "slug": "citrus-haze",
+      "effect": "Supercharges saline minerals with solar citrus peel."
+    }
+  },
+  {
+    "id": "midnight-orchid",
+    "slug": "midnight-orchid",
+    "name": "Midnight Orchid",
+    "family": "Floral",
+    "tagline": "FLORAL · INTOXICATING · EVENING",
+    "gender": "For Her",
+    "timeOfDay": "Midnight",
+    "price": 2750,
+    "price100ml": 4250,
+    "engravedPrice": 3150,
+    "rating": 4.9,
+    "reviewsCount": 164,
+    "badge": "Bestseller",
+    "moodLine": "Night-blooming petals steeped in plum wine.",
+    "shortDescription": "Dark black orchid, spiced plum nectar, and Indonesian patchouli folded into bittersweet dark chocolate.",
+    "description": "A nocturnal symphony designed for after-hours allure. Rare black orchid blooms harvested exclusively at dusk when their narcotic scent peaks, backed by velvety plum and earthy patchouli.",
+    "concentration": "Extrait de Parfum (28% perfume oils)",
+    "notes": {
+      "top": ["Black Plum", "Truffle Accord", "Saffron Threads"],
+      "heart": ["Midnight Orchid", "Lotus Wood", "Ylang Ylang"],
+      "base": ["Dark Patchouli", "Mexican Chocolate", "Incense"]
+    },
+    "meters": {
+      "longevity": 10,
+      "longevityLabel": "12–14 Hours",
+      "sillage": "Magnetic",
+      "sillagePercent": 92
+    },
+    "images": {
+      "primary": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1000&q=80",
+      "secondary": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=1000&q=80",
+      "macro": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1000&q=80"
+    },
+    "layeringWith": {
+      "name": "Smoked Amber",
+      "slug": "smoked-amber",
+      "effect": "Deepens narcotic floral richness into an opulent evening cloud."
+    }
+  },
+  {
+    "id": "citrus-haze",
+    "slug": "citrus-haze",
+    "name": "Citrus Haze",
+    "family": "Fresh",
+    "tagline": "FRESH · EFFERVESCENT · DAY",
+    "gender": "For Everyone",
+    "timeOfDay": "Morning Glow",
+    "price": 2250,
+    "price100ml": 3550,
+    "engravedPrice": 2650,
+    "rating": 4.7,
+    "reviewsCount": 89,
+    "badge": "New",
+    "moodLine": "Sun-drenched Sicilian groves through misted glass.",
+    "shortDescription": "Crushed yuzu rind, cold-pressed mandarin, sparkling neroli, and sun-bleached vetiver roots.",
+    "description": "Bursting with instant clarity. Citrus Haze balances luminous, sparkling Italian citrus with herbaceous green basil and grounding Haitian vetiver for a scent that never turns sharp or fleeting.",
+    "concentration": "Extrait de Parfum (25% perfume oils)",
+    "notes": {
+      "top": ["Yuzu Rind", "Mandarin Zest", "Pink Grapefruit"],
+      "heart": ["Orange Blossom", "Sweet Basil", "Neroli Petals"],
+      "base": ["Haitian Vetiver", "Clean Amber", "White Cypress"]
+    },
+    "meters": {
+      "longevity": 8,
+      "longevityLabel": "8–9 Hours",
+      "sillage": "Radiant",
+      "sillagePercent": 76
+    },
+    "images": {
+      "primary": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=1000&q=80",
+      "secondary": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=1000&q=80",
+      "macro": "https://images.unsplash.com/photo-1615397349754-cfa2066a298e?auto=format&fit=crop&w=1000&q=80"
+    },
+    "layeringWith": {
+      "name": "Salt & Fig",
+      "slug": "salt-and-fig",
+      "effect": "Crisp citrus brightness meets creamy coastal green fig."
+    }
+  },
+  {
+    "id": "cedar-hour",
+    "slug": "cedar-hour",
+    "name": "Cedar Hour",
+    "family": "Woody",
+    "tagline": "WOODY · SMOKED · UNISEX",
+    "gender": "For Everyone",
+    "timeOfDay": "Golden Hour",
+    "price": 2550,
+    "price100ml": 3950,
+    "engravedPrice": 2950,
+    "rating": 4.9,
+    "reviewsCount": 142,
+    "badge": "Trending",
+    "moodLine": "Dusk settling between ancient cedar trunks.",
+    "shortDescription": "Dry Virginia cedarwood shavings, crushed cypress needle, damp hinoki, and soft mineral smoke.",
+    "description": "A scent engineered for stillness. Cedar Hour captures the meditative quiet of dusk among towering timberlands, where cold mountain breezes mingle with warm bark and sacred woods.",
+    "concentration": "Extrait de Parfum (27% perfume oils)",
+    "notes": {
+      "top": ["Crushed Cypress Needle", "Elemi Resin", "Black Pepper"],
+      "heart": ["Virginia Cedarwood", "Hinoki Wood", "Nutmeg"],
+      "base": ["Himalayan Cedar", "Iso E Super", "Earthy Moss"]
+    },
+    "meters": {
+      "longevity": 9,
+      "longevityLabel": "11–13 Hours",
+      "sillage": "Moderate",
+      "sillagePercent": 84
+    },
+    "images": {
+      "primary": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=1000&q=80",
+      "secondary": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=1000&q=80",
+      "macro": "https://images.unsplash.com/photo-1516214104703-d870798883c5?auto=format&fit=crop&w=1000&q=80"
+    },
+    "layeringWith": {
+      "name": "Moonlit Vanilla",
+      "slug": "moonlit-vanilla",
+      "effect": "Softens architectural dry cedarwood with velvety creamy sweetness."
+    }
+  },
+  {
+    "id": "rose-static",
+    "slug": "rose-static",
+    "name": "Rose Static",
+    "family": "Floral",
+    "tagline": "FLORAL · ELECTRIC · UNISEX",
+    "gender": "For Everyone",
+    "timeOfDay": "Day & Night",
+    "price": 2450,
+    "price100ml": 3850,
+    "engravedPrice": 2850,
+    "rating": 4.8,
+    "reviewsCount": 118,
+    "badge": "New",
+    "moodLine": "Metallic petals buzzing with static electricity.",
+    "shortDescription": "Deconstructed Grasse rose stems charged with aldehydes, cold ozone, and clean molecular woods.",
+    "description": "Not your grandmother's rose. Rose Static takes fresh May rose petals and shatters them through a prism of sparkling aldehydes, ozone, and clean crystalline cedar.",
+    "concentration": "Extrait de Parfum (26% perfume oils)",
+    "notes": {
+      "top": ["Cold Aldehydes", "Crushed Rose Stem", "Bergamot"],
+      "heart": ["Centifolia Rose", "Electric Geranium", "Ozone Accord"],
+      "base": ["Ambroxan", "Clean Cedar", "Muscenone"]
+    },
+    "meters": {
+      "longevity": 9,
+      "longevityLabel": "10–12 Hours",
+      "sillage": "Radiant",
+      "sillagePercent": 80
+    },
+    "images": {
+      "primary": "https://images.unsplash.com/photo-1590736704728-f4730bb30770?auto=format&fit=crop&w=1000&q=80",
+      "secondary": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1000&q=80",
+      "macro": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1000&q=80"
+    },
+    "layeringWith": {
+      "name": "Cedar Hour",
+      "slug": "cedar-hour",
+      "effect": "Anchors airy electric rose with quiet, dignified cedar smoke."
+    }
+  },
+  {
+    "id": "moonlit-vanilla",
+    "slug": "moonlit-vanilla",
+    "name": "Moonlit Vanilla",
+    "family": "Woody",
+    "tagline": "ORIENTAL · SENSUAL · NIGHT",
+    "gender": "For Everyone",
+    "timeOfDay": "Midnight",
+    "price": 2650,
+    "price100ml": 4150,
+    "engravedPrice": 3050,
+    "rating": 5.0,
+    "reviewsCount": 230,
+    "badge": "Bestseller",
+    "moodLine": "Unhurried vanilla orchid steeped in dark rum.",
+    "shortDescription": "Smoky bourbon vanilla pod, raw almond milk, dark aged rum, and comforting cashmeran skin scent.",
+    "description": "Far from confectionery sweetness. Moonlit Vanilla is dark, boozy, and deeply tactile — marrying rich vanilla pod extracts with smoked wood and golden resin.",
+    "concentration": "Extrait de Parfum (28% perfume oils)",
+    "notes": {
+      "top": ["Aged Rum", "Roasted Bitter Almond", "Nutmeg"],
+      "heart": ["Bourbon Vanilla Pod", "Sandalwood Cream", "Tobacco Flower"],
+      "base": ["Benzoin Resin", "Cashmeran", "Brown Sugar Melt"]
+    },
+    "meters": {
+      "longevity": 10,
+      "longevityLabel": "14+ Hours",
+      "sillage": "Magnetic",
+      "sillagePercent": 90
+    },
+    "images": {
+      "primary": "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=1000&q=80",
+      "secondary": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=1000&q=80",
+      "macro": "https://images.unsplash.com/photo-1516214104703-d870798883c5?auto=format&fit=crop&w=1000&q=80"
+    },
+    "layeringWith": {
+      "name": "Smoked Amber",
+      "slug": "smoked-amber",
+      "effect": "Creates the ultimate golden decadence with deep smoky warmth."
+    }
+  }
+]
